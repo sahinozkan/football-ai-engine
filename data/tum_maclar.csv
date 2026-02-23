@@ -1,0 +1,638 @@
+tarih,ev_sahibi,deplasman,ev_gol,dep_gol
+2023-08-11,Burnley,Man City,0,3
+2023-08-12,Arsenal,Nott'm Forest,2,1
+2023-08-12,Bournemouth,West Ham,1,1
+2023-08-12,Brighton,Luton,4,1
+2023-08-12,Everton,Fulham,0,1
+2023-08-12,Sheffield United,Crystal Palace,0,1
+2023-08-12,Newcastle,Aston Villa,5,1
+2023-08-13,Brentford,Tottenham,2,2
+2023-08-13,Chelsea,Liverpool,1,1
+2023-08-14,Man United,Wolves,1,0
+2023-08-19,Fulham,Brentford,0,3
+2023-08-19,Liverpool,Bournemouth,3,1
+2023-08-19,Wolves,Brighton,1,4
+2023-08-19,Tottenham,Man United,2,0
+2023-08-19,Man City,Newcastle,1,0
+2023-08-20,Aston Villa,Everton,4,0
+2023-08-20,West Ham,Chelsea,3,1
+2023-08-21,Crystal Palace,Arsenal,0,1
+2023-08-26,Bournemouth,Tottenham,0,2
+2023-08-26,Arsenal,Fulham,2,2
+2023-08-26,Brentford,Crystal Palace,1,1
+2023-08-26,Everton,Wolves,0,1
+2023-08-26,Man United,Nott'm Forest,3,2
+2023-08-26,Brighton,West Ham,1,3
+2023-08-27,Burnley,Aston Villa,1,3
+2023-08-27,Sheffield United,Man City,1,2
+2023-08-27,Newcastle,Liverpool,1,2
+2023-09-03,Arsenal,Man United,3,1
+2023-10-08,Arsenal,Man City,1,0
+2023-08-11,Almeria,Vallecano,0,2
+2023-08-11,Sevilla,Valencia,1,2
+2023-08-12,Sociedad,Girona,1,1
+2023-08-12,Las Palmas,Mallorca,1,1
+2023-08-12,Ath Bilbao,Real Madrid,0,2
+2023-08-13,Celta,Osasuna,0,2
+2023-08-13,Villarreal,Betis,1,2
+2023-08-13,Getafe,Barcelona,0,0
+2023-08-14,Cadiz,Alaves,1,0
+2023-08-14,Ath Madrid,Granada,3,1
+2023-08-18,Mallorca,Villarreal,0,1
+2023-08-18,Valencia,Las Palmas,1,0
+2023-08-19,Sociedad,Celta,1,1
+2023-08-19,Almeria,Real Madrid,1,3
+2023-08-19,Osasuna,Ath Bilbao,0,2
+2023-08-20,Girona,Getafe,3,0
+2023-08-20,Barcelona,Cadiz,2,0
+2023-08-20,Betis,Ath Madrid,0,0
+2023-08-21,Alaves,Sevilla,4,3
+2023-08-21,Granada,Vallecano,0,2
+2023-08-25,Las Palmas,Sociedad,0,0
+2023-08-25,Celta,Real Madrid,0,1
+2023-08-26,Cadiz,Almeria,1,1
+2023-08-26,Granada,Mallorca,3,2
+2023-08-26,Sevilla,Girona,1,2
+2023-08-27,Villarreal,Barcelona,3,4
+2023-08-27,Valencia,Osasuna,1,2
+2023-08-27,Ath Bilbao,Betis,4,2
+2023-08-28,Getafe,Alaves,1,0
+2023-08-28,Vallecano,Ath Madrid,0,7
+2023-09-02,Real Madrid,Getafe,2,1
+2023-09-03,Osasuna,Barcelona,1,2
+2023-09-16,Barcelona,Betis,5,0
+2023-09-17,Real Madrid,Sociedad,2,1
+2023-09-24,Ath Madrid,Real Madrid,3,1
+2023-09-23,Barcelona,Celta,3,2
+2023-09-30,Girona,Real Madrid,0,3
+2023-09-29,Barcelona,Sevilla,1,0
+2023-10-07,Real Madrid,Osasuna,4,0
+2023-10-08,Granada,Barcelona,2,2
+2023-10-21,Sevilla,Real Madrid,1,1
+2023-10-22,Barcelona,Ath Bilbao,1,0
+2023-10-28,Barcelona,Real Madrid,1,2
+2023-11-04,Sociedad,Barcelona,0,1
+2023-11-05,Real Madrid,Vallecano,0,0
+2023-11-11,Real Madrid,Valencia,5,1
+2023-11-12,Barcelona,Alaves,2,1
+2023-11-26,Cadiz,Real Madrid,0,3
+2023-11-25,Vallecano,Barcelona,1,1
+2023-12-02,Real Madrid,Granada,2,0
+2023-12-03,Barcelona,Ath Madrid,1,0
+2023-12-09,Betis,Real Madrid,1,1
+2023-12-10,Barcelona,Girona,2,4
+2023-12-17,Real Madrid,Villarreal,4,1
+2023-12-16,Valencia,Barcelona,1,1
+2023-12-21,Alaves,Real Madrid,0,1
+2023-12-20,Barcelona,Almeria,3,2
+2024-01-03,Real Madrid,Mallorca,1,0
+2024-01-04,Las Palmas,Barcelona,1,2
+2024-01-21,Real Madrid,Almeria,3,2
+2024-01-21,Betis,Barcelona,2,4
+2024-01-27,Las Palmas,Real Madrid,1,2
+2024-01-27,Barcelona,Villarreal,3,5
+2024-02-01,Getafe,Real Madrid,0,2
+2024-01-31,Barcelona,Osasuna,1,0
+2024-02-04,Real Madrid,Ath Madrid,1,1
+2024-02-03,Alaves,Barcelona,1,3
+2024-02-10,Real Madrid,Girona,4,0
+2024-02-11,Barcelona,Granada,3,3
+2024-02-18,Vallecano,Real Madrid,1,1
+2024-02-17,Celta,Barcelona,1,2
+2024-02-25,Real Madrid,Sevilla,1,0
+2024-02-24,Barcelona,Getafe,4,0
+2024-03-02,Valencia,Real Madrid,2,2
+2024-03-03,Ath Bilbao,Barcelona,0,0
+2024-03-10,Real Madrid,Celta,4,0
+2024-03-08,Barcelona,Mallorca,1,0
+2024-03-16,Osasuna,Real Madrid,2,4
+2024-03-17,Ath Madrid,Barcelona,0,3
+2024-03-31,Real Madrid,Ath Bilbao,2,0
+2024-03-30,Barcelona,Las Palmas,1,0
+2024-04-13,Mallorca,Real Madrid,0,1
+2024-04-13,Cadiz,Barcelona,0,1
+2024-04-21,Real Madrid,Barcelona,3,2
+2024-04-26,Sociedad,Real Madrid,0,1
+2024-04-29,Barcelona,Valencia,4,2
+2024-05-04,Real Madrid,Cadiz,3,0
+2024-05-04,Girona,Barcelona,4,2
+2024-05-11,Granada,Real Madrid,0,4
+2024-05-13,Barcelona,Sociedad,2,0
+2024-05-14,Real Madrid,Alaves,5,0
+2024-05-16,Almeria,Barcelona,0,2
+2024-05-19,Villarreal,Real Madrid,4,4
+2024-05-19,Barcelona,Vallecano,3,0
+2024-05-25,Real Madrid,Betis,0,0
+2024-05-26,Sevilla,Barcelona,1,2
+2024-09-17,Arsenal,Paris Saint-Germain,2,0
+2024-09-17,Barcelona,Bayern München,4,1
+2024-09-17,Real Madrid,Union Berlin,1,0
+2024-10-01,Barcelona,Young Boys,5,0
+2024-10-01,Inter,Crvena Zvezda,4,0
+2024-10-01,Bayer Leverkusen,AC Milan,1,0
+2024-10-01,Atalanta,Celtic,0,0
+2024-10-22,Monaco,Crvena Zvezda,5,1
+2024-10-22,Arsenal,Shakhtar Donetsk,1,0
+2024-11-05,Liverpool,Bayer Leverkusen,4,0
+2024-11-05,Celtic,Leipzig,3,1
+2024-11-05,Bayern München,Benfica,1,0
+2024-11-26,Sparta Praha,Atlético de Madrid,0,6
+2024-11-26,Young Boys,Atalanta,1,6
+2024-11-26,Barcelona,Brest,3,0
+2024-12-10,Real Madrid,Atalanta,3,2
+2024-12-10,Shakhtar Donetsk,Bayern München,1,5
+2024-12-10,Salzburg,Paris Saint-Germain,0,3
+2025-01-22,Paris Saint-Germain,Manchester City,4,2
+2025-01-29,PSV Eindhoven,Liverpool,3,2
+2025-01-29,Bayern München,Slovan Bratislava,3,1
+2025-01-29,Borussia Dortmund,Shakhtar Donetsk,3,1
+2025-03-04,Club Brugge,Aston Villa,1,3
+2025-03-04,Real Madrid,Atletico Madrid,2,1
+2025-03-11,Barcelona,Benfica,3,1
+2025-03-11,Bayern München,Leverkusen,2,0
+2025-03-11,Liverpool,Paris Saint-Germain,0,1
+2025-03-11,Inter,Feyenoord,2,1
+2025-04-08,Arsenal,Real Madrid,3,0
+2025-04-08,Paris Saint-Germain,Aston Villa,3,1
+2025-04-09,Barcelona,Borussia Dortmund,4,0
+2025-04-15,Aston Villa,Paris Saint-Germain,3,2
+2025-04-15,Borussia Dortmund,Barcelona,3,1
+2025-04-16,Real Madrid,Arsenal,1,2
+2025-04-16,Inter,Bayern München,2,2
+2025-04-29,Arsenal,Paris Saint-Germain,0,1
+2025-04-30,Barcelona,Inter,3,3
+2025-05-06,Inter,Barcelona,4,3
+2025-05-07,Paris Saint-Germain,Arsenal,2,1
+2025-05-31,Paris Saint-Germain,Inter Milan,5,0
+2025-09-16,Athletic Club,Arsenal,0,2
+2025-09-16,PSV Eindhoven,Union Saint-Gilloise,1,3
+2025-09-16,Juventus,Borussia Dortmund,4,4
+2025-09-16,Real Madrid,Marseille,2,1
+2025-09-16,Benfica,Qarabağ,2,3
+2025-09-16,Tottenham,Villarreal,1,0
+2025-09-17,Olympiacos,Pafos,0,0
+2025-09-17,Slavia Praha,Bodø/Glimt,2,2
+2025-09-17,Ajax,Inter,0,2
+2025-09-17,Bayern München,Chelsea,3,1
+2025-09-17,Liverpool,Atlético de Madrid,3,2
+2025-09-17,Paris Saint-Germain,Atalanta,4,0
+2025-09-30,Atalanta,Club Brugge,2,1
+2025-09-30,Kairat Almaty,Real Madrid,0,5
+2025-09-30,Atlético de Madrid,Frankfurt,5,1
+2025-09-30,Chelsea,Benfica,1,0
+2025-09-30,Inter,Slavia Praha,3,0
+2025-09-30,Bodø/Glimt,Tottenham,2,2
+2025-09-30,Galatasaray,Liverpool,1,0
+2025-09-30,Marseille,Ajax,4,0
+2025-09-30,Pafos,Bayern München,1,5
+2025-10-21,Barcelona,Olympiacos,6,1
+2025-10-21,Kairat Almaty,Pafos,0,0
+2025-10-21,Arsenal,Atlético de Madrid,4,0
+2025-10-21,Leverkusen,Paris Saint-Germain,2,7
+2025-10-21,Copenhagen,Borussia Dortmund,2,4
+2025-10-21,Newcastle United,Benfica,3,0
+2025-10-21,PSV Eindhoven,Napoli,6,2
+2025-10-21,Union Saint-Gilloise,Inter,0,4
+2025-10-21,Villarreal,Manchester City,0,2
+2025-10-22,Athletic Club,Qarabağ,3,1
+2025-10-22,Galatasaray,Bodø/Glimt,3,1
+2025-10-22,Monaco,Tottenham,0,0
+2025-10-22,Atalanta,Slavia Praha,0,0
+2025-10-22,Chelsea,Ajax,5,1
+2025-10-22,Frankfurt,Liverpool,1,5
+2025-10-22,Bayern München,Club Brugge,4,0
+2025-10-22,Real Madrid,Juventus,1,0
+2025-10-22,Sporting CP,Marseille,2,1
+2025-11-04,Slavia Praha,Arsenal,0,3
+2025-11-04,Napoli,Frankfurt,0,0
+2025-11-04,Atlético de Madrid,Union Saint-Gilloise,3,1
+2025-11-04,Bodø/Glimt,Monaco,0,1
+2025-11-04,Juventus,Sporting CP,1,1
+2025-11-04,Liverpool,Real Madrid,1,0
+2025-11-04,Olympiacos,PSV Eindhoven,1,1
+2025-11-04,Paris Saint-Germain,Bayern München,1,2
+2025-11-04,Tottenham,Copenhagen,4,0
+2025-11-05,Pafos,Villarreal,1,0
+2025-11-05,Qarabağ,Chelsea,2,2
+2025-11-05,Ajax,Galatasaray,0,3
+2025-11-05,Club Brugge,Barcelona,3,3
+2025-11-05,Inter,Kairat Almaty,2,1
+2025-11-05,Manchester City,Borussia Dortmund,4,1
+2025-11-05,Newcastle United,Athletic Club,2,0
+2025-11-05,Marseille,Atalanta,0,1
+2025-11-05,Benfica,Leverkusen,0,1
+2025-11-25,Ajax,Benfica,0,2
+2025-11-25,Galatasaray,Union Saint-Gilloise,0,1
+2025-11-25,Borussia Dortmund,Villarreal,4,0
+2025-11-25,Chelsea,Barcelona,3,0
+2025-11-25,Bodø/Glimt,Juventus,2,3
+2025-11-25,Manchester City,Leverkusen,0,2
+2025-11-25,Marseille,Newcastle United,2,1
+2025-11-25,Slavia Praha,Athletic Club,0,0
+2025-11-25,Napoli,Qarabağ,2,0
+2025-11-26,Copenhagen,Kairat Almaty,3,2
+2025-11-26,Pafos,Monaco,2,2
+2025-11-26,Arsenal,Bayern München,3,1
+2025-11-26,Atlético de Madrid,Inter,2,1
+2025-11-26,Frankfurt,Atalanta,0,3
+2025-11-26,Liverpool,PSV Eindhoven,1,4
+2025-11-26,Olympiacos,Real Madrid,3,4
+2025-11-26,Paris Saint-Germain,Tottenham,5,3
+2025-11-26,Sporting CP,Club Brugge,3,0
+2025-12-09,Kairat Almaty,Olympiacos,0,1
+2025-12-09,Bayern München,Sporting CP,3,1
+2025-12-09,Monaco,Galatasaray,1,0
+2025-12-09,Atalanta,Chelsea,2,1
+2025-12-09,Barcelona,Eintracht Frankfurt,2,1
+2025-12-09,Inter,Liverpool,0,1
+2025-12-09,PSV Eindhoven,Atlético de Madrid,2,3
+2025-12-09,Union Saint-Gilloise,Marseille,2,3
+2025-12-10,Qarabağ,Ajax,2,4
+2025-12-10,Villarreal,Copenhagen,2,3
+2025-12-10,Athletic Club,Paris Saint-Germain,0,0
+2025-12-10,Leverkusen,Newcastle United,2,2
+2025-12-10,Borussia Dortmund,Bodø/Glimt,2,2
+2025-12-10,Club Brugge,Arsenal,0,3
+2025-12-10,Juventus,Pafos,2,0
+2025-12-10,Real Madrid,Manchester City,1,2
+2025-12-10,Benfica,Napoli,2,0
+2023-08-19,Lazio,Napoli,2,4
+2023-08-20,Bologna,Torino,4,2
+2023-08-21,Salernitana,Genoa,1,4
+2023-08-23,Inter,Atalanta,1,1
+2023-08-23,Milan,Frosinone,4,4
+2023-08-24,Inter,Frosinone,1,1
+2023-08-26,Lecce,Napoli,0,0
+2023-08-26,Cagliari,Udinese,2,1
+2023-08-28,Lazio,Atalanta,4,4
+2023-08-30,Sassuolo,Salernitana,1,1
+2023-09-01,Monza,Sassuolo,4,2
+2023-09-01,Atalanta,Milan,3,1
+2023-09-03,Roma,Bologna,1,1
+2023-09-04,Sassuolo,Inter,1,2
+2023-09-06,Salernitana,Roma,3,4
+2023-09-07,Atalanta,Milan,2,3
+2023-09-07,Sassuolo,Lazio,3,2
+2023-09-07,Torino,Monza,2,2
+2023-09-09,Salernitana,Lazio,0,1
+2023-09-10,Juventus,Monza,1,0
+2023-09-12,Fiorentina,Milan,2,3
+2023-09-13,Roma,Inter,1,2
+2023-09-14,Udinese,Milan,1,2
+2023-09-14,Fiorentina,Udinese,0,0
+2023-09-16,Lazio,Torino,2,0
+2023-09-18,Fiorentina,Milan,2,3
+2023-09-20,Hellas Verona,Udinese,1,4
+2023-09-22,Monza,Sassuolo,2,3
+2023-09-23,Udinese,Napoli,0,1
+2023-09-25,Udinese,Roma,3,1
+2023-09-27,Lazio,Atalanta,0,2
+2023-09-28,Fiorentina,Napoli,2,3
+2023-09-29,Bologna,Milan,0,4
+2023-10-01,Monza,Milan,2,1
+2023-10-03,Fiorentina,Milan,2,4
+2023-10-04,Torino,Cagliari,0,0
+2023-10-04,Genoa,Sassuolo,2,1
+2023-10-05,Milan,Cagliari,3,4
+2023-10-05,Udinese,Frosinone,4,2
+2023-10-07,Cagliari,Bologna,1,3
+2023-10-08,Atalanta,Cagliari,2,3
+2023-10-08,Lazio,Inter,1,4
+2023-10-10,Fiorentina,Salernitana,4,0
+2023-10-12,Atalanta,Sassuolo,1,1
+2023-10-13,Milan,Monza,4,1
+2023-10-15,Hellas Verona,Salernitana,1,1
+2023-10-15,Lecce,Atalanta,0,1
+2023-10-16,Roma,Napoli,4,4
+2023-10-16,Inter,Genoa,4,2
+2023-10-16,Atalanta,Empoli,0,0
+2023-10-18,Fiorentina,Lecce,0,1
+2023-10-18,Genoa,Cagliari,3,4
+2023-10-20,Juventus,Sassuolo,4,2
+2023-10-21,Juventus,Inter,1,2
+2023-10-21,Monza,Hellas Verona,0,4
+2023-10-21,Empoli,Torino,4,1
+2023-10-21,Udinese,Inter,4,1
+2023-10-21,Napoli,Atalanta,4,4
+2023-10-23,Torino,Milan,0,3
+2023-10-24,Torino,Sassuolo,2,4
+2023-10-24,Juventus,Napoli,3,2
+2023-10-26,Monza,Bologna,4,2
+2023-10-26,Milan,Napoli,2,1
+2023-10-27,Salernitana,Lazio,0,4
+2023-10-28,Hellas Verona,Milan,4,0
+2023-10-28,Frosinone,Milan,0,4
+2023-10-29,Juventus,Monza,1,1
+2023-10-31,Udinese,Milan,4,2
+2023-11-02,Lecce,Juventus,1,4
+2023-11-03,Sassuolo,Bologna,2,4
+2023-11-04,Salernitana,Monza,3,2
+2023-11-05,Empoli,Fiorentina,1,2
+2023-11-05,Hellas Verona,Empoli,0,0
+2023-11-07,Monza,Torino,2,1
+2023-11-09,Hellas Verona,Lazio,0,0
+2023-11-10,Inter,Sassuolo,0,1
+2023-11-10,Fiorentina,Lazio,1,4
+2023-11-10,Cagliari,Atalanta,2,0
+2023-11-12,Inter,Sassuolo,0,4
+2023-11-12,Napoli,Inter,2,0
+2023-11-13,Lecce,Atalanta,2,4
+2023-11-13,Lecce,Sassuolo,2,3
+2023-11-14,Fiorentina,Frosinone,4,2
+2023-11-15,Roma,Torino,2,1
+2023-11-17,Napoli,Torino,3,0
+2023-11-17,Bologna,Fiorentina,0,4
+2023-11-17,Lazio,Roma,0,0
+2023-11-17,Sassuolo,Inter,1,0
+2023-11-18,Torino,Lazio,0,1
+2023-11-18,Udinese,Napoli,0,4
+2023-11-19,Atalanta,Inter,4,3
+2023-11-20,Cagliari,Genoa,0,3
+2023-11-21,Hellas Verona,Roma,2,3
+2023-11-22,Fiorentina,Milan,4,0
+2023-11-24,Fiorentina,Empoli,1,4
+2023-11-24,Torino,Cagliari,0,1
+2023-11-25,Fiorentina,Sassuolo,0,4
+2023-11-25,Milan,Salernitana,4,3
+2023-11-25,Hellas Verona,Genoa,3,4
+2023-11-25,Lecce,Torino,1,0
+2023-11-25,Cagliari,Hellas Verona,2,3
+2023-11-25,Bologna,Roma,0,4
+2023-11-25,Juventus,Cagliari,3,3
+2023-11-25,Inter,Milan,3,3
+2023-11-27,Fiorentina,Roma,4,3
+2023-11-28,Roma,Cagliari,2,3
+2023-11-28,Monza,Inter,0,2
+2023-11-30,Monza,Hellas Verona,0,1
+2023-12-01,Fiorentina,Lecce,3,2
+2023-12-03,Salernitana,Udinese,2,1
+2023-12-03,Lecce,Hellas Verona,0,3
+2023-12-04,Torino,Hellas Verona,3,0
+2023-12-05,Genoa,Atalanta,4,0
+2023-12-05,Monza,Lazio,1,4
+2023-12-05,Milan,Udinese,2,3
+2023-12-06,Napoli,Sassuolo,1,0
+2023-12-07,Udinese,Genoa,0,4
+2023-12-07,Udinese,Monza,3,2
+2023-12-09,Bologna,Torino,1,4
+2023-12-09,Sassuolo,Torino,4,1
+2023-12-09,Inter,Genoa,3,2
+2023-12-09,Juventus,Empoli,0,3
+2023-12-11,Lazio,Inter,1,1
+2023-12-13,Napoli,Monza,4,0
+2023-12-14,Bologna,Milan,4,3
+2023-12-15,Monza,Torino,1,0
+2023-12-17,Empoli,Salernitana,2,2
+2023-12-18,Sassuolo,Inter,4,0
+2023-12-18,Hellas Verona,Roma,3,2
+2023-12-20,Genoa,Empoli,2,0
+2023-12-22,Monza,Atalanta,2,3
+2023-12-24,Frosinone,Bologna,0,4
+2023-12-24,Hellas Verona,Bologna,0,1
+2023-12-25,Fiorentina,Lazio,0,0
+2023-12-25,Napoli,Lecce,2,1
+2023-12-26,Milan,Atalanta,0,2
+2023-12-26,Napoli,Hellas Verona,3,2
+2023-12-26,Napoli,Lazio,3,0
+2023-12-26,Inter,Juventus,2,4
+2023-12-26,Sassuolo,Lecce,0,3
+2023-12-28,Inter,Napoli,1,4
+2023-12-28,Sassuolo,Inter,2,3
+2023-12-28,Monza,Sassuolo,0,3
+2023-12-28,Frosinone,Genoa,2,3
+2023-12-29,Roma,Inter,1,3
+2023-12-29,Cagliari,Udinese,1,4
+2023-12-31,Juventus,Monza,0,4
+2023-12-31,Lazio,Genoa,3,3
+2024-01-01,Fiorentina,Monza,1,4
+2024-01-03,Empoli,Genoa,2,1
+2024-01-05,Atalanta,Empoli,1,4
+2024-01-05,Napoli,Monza,1,2
+2024-01-07,Frosinone,Lazio,1,4
+2024-01-08,Lazio,Salernitana,4,4
+2024-01-09,Udinese,Inter,2,2
+2024-01-09,Milan,Monza,1,2
+2024-01-09,Sassuolo,Lazio,1,3
+2024-01-10,Lazio,Genoa,4,3
+2024-01-11,Salernitana,Frosinone,0,0
+2024-01-13,Hellas Verona,Juventus,4,3
+2024-01-13,Genoa,Udinese,1,2
+2024-01-13,Juventus,Napoli,0,2
+2024-01-13,Hellas Verona,Genoa,0,1
+2024-01-13,Lecce,Bologna,3,0
+2024-01-13,Inter,Empoli,4,0
+2024-01-15,Atalanta,Milan,0,3
+2024-01-17,Monza,Genoa,0,4
+2024-01-19,Genoa,Monza,4,0
+2024-01-19,Fiorentina,Atalanta,4,2
+2024-01-20,Roma,Juventus,1,0
+2024-01-20,Roma,Cagliari,4,4
+2024-01-20,Inter,Cagliari,0,3
+2024-01-22,Milan,Salernitana,3,2
+2024-01-24,Inter,Genoa,4,2
+2024-01-24,Torino,Bologna,3,0
+2024-01-25,Cagliari,Hellas Verona,4,3
+2024-01-26,Genoa,Milan,4,0
+2024-01-27,Lazio,Inter,0,4
+2024-01-29,Udinese,Empoli,0,2
+2024-01-29,Monza,Fiorentina,1,3
+2024-01-29,Lazio,Udinese,0,2
+2024-01-29,Lecce,Frosinone,0,0
+2024-01-29,Cagliari,Frosinone,4,2
+2024-01-31,Salernitana,Atalanta,3,4
+2024-01-31,Atalanta,Roma,0,2
+2024-02-02,Roma,Napoli,0,1
+2024-02-03,Juventus,Fiorentina,2,2
+2024-02-03,Torino,Roma,3,4
+2024-02-04,Monza,Lecce,3,1
+2024-02-06,Juventus,Torino,1,2
+2024-02-06,Frosinone,Napoli,3,4
+2024-02-06,Lecce,Empoli,2,1
+2024-02-06,Lecce,Cagliari,1,0
+2024-02-07,Empoli,Cagliari,2,3
+2024-02-09,Torino,Roma,4,0
+2024-02-10,Genoa,Bologna,1,0
+2024-02-11,Lazio,Torino,0,3
+2024-02-13,Atalanta,Empoli,3,3
+2024-02-13,Hellas Verona,Napoli,4,1
+2024-02-14,Roma,Udinese,2,2
+2024-02-14,Milan,Bologna,4,3
+2024-02-15,Salernitana,Genoa,2,1
+2024-02-17,Bologna,Genoa,3,4
+2024-02-19,Sassuolo,Empoli,3,1
+2024-02-19,Udinese,Lazio,3,1
+2024-02-20,Cagliari,Juventus,4,0
+2024-02-21,Hellas Verona,Napoli,1,1
+2024-02-23,Lazio,Atalanta,0,1
+2024-02-25,Hellas Verona,Udinese,4,1
+2024-02-27,Atalanta,Lecce,4,1
+2024-02-28,Empoli,Torino,2,2
+2024-03-01,Napoli,Cagliari,0,4
+2024-03-03,Sassuolo,Hellas Verona,0,3
+2024-03-04,Lazio,Bologna,3,0
+2024-03-04,Inter,Salernitana,3,2
+2024-03-04,Lecce,Napoli,3,0
+2024-03-06,Juventus,Sassuolo,1,4
+2024-03-06,Fiorentina,Empoli,0,0
+2024-03-07,Salernitana,Empoli,4,3
+2024-03-08,Monza,Frosinone,1,4
+2024-03-08,Bologna,Milan,1,2
+2024-03-08,Lazio,Fiorentina,2,2
+2024-03-08,Bologna,Hellas Verona,3,4
+2024-03-10,Monza,Juventus,2,0
+2024-03-11,Genoa,Frosinone,3,4
+2024-03-12,Fiorentina,Lazio,0,4
+2024-03-14,Frosinone,Juventus,4,0
+2024-03-16,Milan,Empoli,2,1
+2024-03-17,Frosinone,Sassuolo,1,3
+2024-03-17,Frosinone,Udinese,1,3
+2024-03-18,Torino,Hellas Verona,1,4
+2024-03-18,Juventus,Empoli,1,2
+2024-03-19,Frosinone,Udinese,2,3
+2024-03-19,Salernitana,Lazio,4,2
+2024-03-20,Sassuolo,Bologna,4,3
+2024-03-22,Inter,Fiorentina,0,0
+2024-03-23,Genoa,Lazio,0,3
+2024-03-24,Inter,Genoa,3,4
+2024-03-26,Salernitana,Empoli,3,2
+2024-03-28,Fiorentina,Salernitana,4,2
+2024-03-28,Frosinone,Genoa,2,0
+2024-03-28,Hellas Verona,Atalanta,2,2
+2024-03-30,Bologna,Inter,2,4
+2024-04-01,Cagliari,Lazio,1,4
+2024-04-01,Lazio,Lecce,3,3
+2024-04-03,Udinese,Sassuolo,1,2
+2024-04-05,Inter,Napoli,4,3
+2024-04-06,Torino,Milan,2,3
+2024-04-07,Atalanta,Sassuolo,0,1
+2024-04-07,Genoa,Roma,1,3
+2024-04-08,Lazio,Hellas Verona,2,4
+2024-04-09,Inter,Bologna,3,3
+2024-04-09,Salernitana,Sassuolo,1,0
+2024-04-09,Frosinone,Milan,1,1
+2024-04-09,Lazio,Juventus,1,3
+2024-04-11,Genoa,Atalanta,2,0
+2024-04-13,Cagliari,Udinese,2,3
+2024-04-14,Atalanta,Frosinone,4,3
+2024-04-16,Lazio,Fiorentina,4,0
+2024-04-17,Atalanta,Juventus,2,3
+2024-04-18,Bologna,Roma,2,1
+2024-04-19,Atalanta,Frosinone,1,2
+2024-04-19,Hellas Verona,Sassuolo,0,0
+2024-04-20,Bologna,Empoli,3,4
+2024-04-22,Genoa,Torino,4,1
+2024-04-24,Hellas Verona,Empoli,4,0
+2024-04-24,Atalanta,Monza,2,3
+2024-04-25,Lecce,Atalanta,1,1
+2024-04-26,Sassuolo,Lazio,2,3
+2024-04-28,Inter,Frosinone,2,3
+2024-04-30,Lazio,Lecce,0,1
+2024-04-30,Torino,Bologna,3,4
+2024-05-02,Genoa,Napoli,1,1
+2024-05-04,Frosinone,Sassuolo,3,3
+2024-05-06,Monza,Lazio,2,2
+2024-05-08,Torino,Hellas Verona,4,4
+2024-05-10,Genoa,Fiorentina,1,1
+2024-05-10,Empoli,Sassuolo,0,1
+2024-05-12,Empoli,Salernitana,2,3
+2024-05-14,Juventus,Fiorentina,1,2
+2024-05-14,Sassuolo,Bologna,1,0
+2024-05-15,Inter,Lecce,1,0
+2024-05-16,Hellas Verona,Inter,3,1
+2024-05-18,Monza,Inter,0,4
+2024-05-20,Udinese,Genoa,2,2
+2024-05-20,Hellas Verona,Fiorentina,3,2
+2024-05-21,Fiorentina,Cagliari,3,0
+2024-05-22,Monza,Roma,3,0
+2024-05-24,Atalanta,Salernitana,1,1
+2024-05-24,Torino,Lazio,1,3
+2024-05-24,Juventus,Atalanta,4,1
+2024-05-26,Juventus,Atalanta,4,2
+2024-05-28,Bologna,Salernitana,1,3
+2024-05-29,Empoli,Salernitana,2,1
+2024-05-29,Cagliari,Sassuolo,2,3
+2024-05-29,Cagliari,Monza,3,4
+2024-05-29,Salernitana,Lazio,4,1
+2024-05-29,Genoa,Udinese,1,4
+2024-05-29,Genoa,Lecce,2,2
+2024-05-31,Milan,Torino,1,3
+2024-06-01,Fiorentina,Juventus,4,4
+2024-06-02,Inter,Roma,4,0
+2024-06-03,Udinese,Juventus,4,2
+2024-06-05,Inter,Empoli,2,0
+2024-06-05,Hellas Verona,Monza,2,0
+2024-06-07,Napoli,Cagliari,2,1
+2024-06-08,Lecce,Udinese,3,4
+2024-06-10,Inter,Atalanta,0,3
+2024-06-12,Lazio,Fiorentina,3,4
+2024-06-12,Juventus,Fiorentina,0,3
+2024-06-13,Torino,Frosinone,2,3
+2024-06-15,Milan,Salernitana,1,4
+2024-06-15,Udinese,Cagliari,2,3
+2024-06-16,Napoli,Hellas Verona,2,4
+2024-06-16,Cagliari,Lazio,2,4
+2024-06-18,Sassuolo,Lecce,3,2
+2024-06-20,Lecce,Monza,4,1
+2024-06-20,Lecce,Roma,1,2
+2024-06-21,Hellas Verona,Napoli,3,3
+2024-06-22,Lazio,Monza,0,4
+2024-06-23,Torino,Monza,2,0
+2024-06-24,Monza,Salernitana,1,2
+2024-06-26,Salernitana,Lecce,0,0
+2024-06-28,Torino,Frosinone,0,0
+2024-06-28,Cagliari,Salernitana,2,2
+2024-06-29,Monza,Atalanta,4,0
+2024-06-29,Torino,Lecce,1,3
+2024-07-01,Cagliari,Bologna,1,0
+2024-07-01,Inter,Empoli,3,2
+2024-07-01,Empoli,Juventus,3,0
+2024-07-03,Sassuolo,Atalanta,2,0
+2024-07-04,Cagliari,Hellas Verona,3,2
+2024-07-05,Roma,Frosinone,4,3
+2024-07-05,Fiorentina,Roma,4,2
+2024-07-07,Roma,Lecce,4,0
+2024-07-09,Hellas Verona,Sassuolo,4,3
+2024-07-09,Atalanta,Torino,0,2
+2024-07-11,Cagliari,Empoli,0,0
+2024-07-13,Inter,Torino,2,2
+2024-07-14,Atalanta,Juventus,2,0
+2024-07-15,Fiorentina,Udinese,2,2
+2024-07-15,Hellas Verona,Bologna,4,3
+2024-07-15,Lazio,Empoli,2,4
+2024-07-16,Milan,Fiorentina,0,4
+2024-07-17,Roma,Fiorentina,2,1
+2024-07-18,Frosinone,Juventus,1,2
+2024-07-20,Salernitana,Cagliari,3,3
+2024-07-20,Roma,Lecce,3,1
+2024-07-20,Bologna,Cagliari,4,1
+2024-07-21,Frosinone,Lecce,1,4
+2024-07-21,Torino,Sassuolo,2,2
+2024-07-23,Genoa,Monza,0,4
+2024-07-25,Atalanta,Inter,0,4
+2024-07-26,Frosinone,Torino,3,1
+2024-07-27,Napoli,Sassuolo,2,2
+2024-07-27,Udinese,Fiorentina,1,4
+2024-07-29,Juventus,Atalanta,0,1
+2024-07-30,Cagliari,Monza,0,0
+2024-08-01,Lecce,Milan,4,2
+2024-08-02,Inter,Empoli,0,3
+2024-08-02,Genoa,Fiorentina,2,1
+2024-08-03,Monza,Udinese,2,4
+2024-08-05,Fiorentina,Sassuolo,2,1
+2024-08-05,Atalanta,Cagliari,2,2
+2024-08-07,Frosinone,Inter,3,1
+2024-08-07,Frosinone,Napoli,0,0
+2024-08-07,Sassuolo,Torino,1,2
+2024-08-09,Cagliari,Sassuolo,0,2
+2024-08-09,Lecce,Salernitana,3,1
+2024-08-09,Cagliari,Lecce,3,0
+2024-08-09,Lazio,Monza,1,1
+2024-08-11,Cagliari,Sassuolo,1,2
+2024-08-13,Monza,Roma,4,1
+2024-08-13,Genoa,Roma,2,3
+2024-08-14,Udinese,Milan,0,0
+2024-08-16,Inter,Juventus,0,0
+2024-08-17,Juventus,Bologna,4,2
+2024-08-19,Cagliari,Sassuolo,4,2
+2024-08-19,Fiorentina,Inter,4,1
+2024-08-20,Sassuolo,Empoli,4,1
